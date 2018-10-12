@@ -1,0 +1,10 @@
+{
+  "webui": {
+    "username": "", //设定系统登陆用户名
+    "password": "", //设定系统登陆密码
+    "need-auth": true
+  },
+  "scheduler":{
+    "delete-time":5 //设定删除项目时间
+  }
+}

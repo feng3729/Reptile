@@ -1,0 +1,111 @@
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 2: syntax error near unexpected token `'PRC''
+/home/www/gather/index.php: line 2: `date_default_timezone_set('PRC'); //设置中国时区 '
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 2: syntax error near unexpected token `('
+/home/www/gather/index.php: line 2: `// date_default_timezone_set('PRC'); //设置中国时区 '
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 2: syntax error near unexpected token `('
+/home/www/gather/index.php: line 2: `// date_default_timezone_set('PRC'); //设置中国时区 '
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 2: syntax error near unexpected token `('
+/home/www/gather/index.php: line 2: `// date_default_timezone_set('PRC'); //设置中国时区 '
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 2: syntax error near unexpected token `('
+/home/www/gather/index.php: line 2: `// date_default_timezone_set('PRC'); //设置中国时区 '
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 2: syntax error near unexpected token `('
+/home/www/gather/index.php: line 2: `// date_default_timezone_set('PRC'); //设置中国时区 '
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
+/home/www/gather/index.php: line 1: ?php: No such file or directory
+/home/www/gather/index.php: line 3: syntax error near unexpected token `('
+/home/www/gather/index.php: line 3: `$mysql = mysql_connect("localhost",'root','3729feng..') or die(mysql_error());'
